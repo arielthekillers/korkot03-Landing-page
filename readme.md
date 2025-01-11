@@ -1,6 +1,6 @@
 # Korkot 03 Landing Page
 
-🎉🌟 Welcome to the **Korkot 03 Landing Page**!  This landing page is designed to optimize office work by providing quick access to frequently used services with just a click. It serves as a one-stop hub for all your needs in the Korkot 03 office.
+🎉🌟 Welcome to the **Korkot 03 Landing Page**!  This landing page is designed to optimize office work by providing quick access to frequently used services with just a click. It serves as a one-stop hub for all our needs in the Korkot 03 office.
 
 ## 🛠️ Features
 - Direct links to essential office tools and services.
